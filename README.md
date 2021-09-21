@@ -5,13 +5,13 @@
 - 😄 Pronouns: ele, dele
 - ⚡ Most Desired Superpower: Time Control, não tem como fugir desse poder bugado... 😄
 <hr>
-<div style="justify-content: center">
+<div style="display: flex; justify-content: center">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <a href="https://github.com/martinsph">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martinsph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsph&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <div style="justify-content: center">
+  <div style="display: flex; justify-content: center">
     <i class="devicon-html5-plain colored"></i>
     <img align="center" alt="ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +25,7 @@
     <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </div>
 </a>
-<div style="justify-content: center">
+<div style="display: flex; justify-content: center">
   <a href="https://www.linkedin.com/in/pedrohmmartins2021"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:ph.mmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
