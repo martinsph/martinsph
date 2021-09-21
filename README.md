@@ -1,7 +1,7 @@
 ### Oi, sou o Pedro Martins!👋
 
 - 👨‍💻 Estou procurando oportunidades em front-end 
-- 📖 Aluno da Trybe estudando back-end (SQL, NoSQL, Node.js)
+- 📖 Aluno da Trybe atualmente no módulo de back-end (SQL, NoSQL, Node.js)
 - 😄 Pronouns: ele, dele
 - ⚡ Most Desired Superpower: Time Control, não tem como fugir desse poder bugado... 😄
 <hr>
