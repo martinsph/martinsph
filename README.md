@@ -6,7 +6,7 @@
 - 🏗️ Linkedin: www.linkedin.com/in/pedrohmmartins2021
 - 😄 Pronouns: ele, dele
 - ⚡ Most Desired Superpower: Time Control, não tem como fugir desse poder bugado... 😄
-
+<hr>
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <a href="https://github.com/martinsph">
@@ -14,9 +14,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsph&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div>
-  <img height="50" width="60" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img height="50" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
-<hr>
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
   <img align="center" alt="ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
