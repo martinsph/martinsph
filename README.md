@@ -14,7 +14,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsph&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div>
-  <img height="50" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img height="50" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img height="50" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
