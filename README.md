@@ -3,7 +3,7 @@
 - 👨‍💻 Estou procurando oportunidades em front-end 
 - 📖 Aluno da Trybe estudando back-end (SQL, NoSQL, Node.js)
 - 📫 Contate-me: ph.mmartins@gmail.com
-- 🏗️ Meu Linkedin: www.linkedin.com/in/pedrohmmartins2021
+- 🏗️ Linkedin: www.linkedin.com/in/pedrohmmartins2021
 - 😄 Pronouns: ele, dele
 - ⚡ Most Desired Superpower: Time Control, não tem como fugir desse poder bugado... 😄
 
@@ -22,5 +22,5 @@
   <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="ewe-GitHub" height="30" width="40" src="<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="ewe-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div> 
