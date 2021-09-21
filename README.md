@@ -5,11 +5,11 @@
 - 😄 Pronouns: ele, dele
 - ⚡ Most Desired Superpower: Time Control, não tem como fugir desse poder bugado... 😄
 <hr>
-<div style="display: flex; justify-content: center; align: center">
+<div style="display: flex; justify-content: center" width="100%">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <a href="https://github.com/martinsph">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martinsph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsph&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=martinsph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsph&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: flex; justify-content: center">
     <i class="devicon-html5-plain colored"></i>
