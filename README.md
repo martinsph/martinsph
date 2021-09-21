@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele, dele
 - ⚡ Most Desired Superpower: Time Control, não tem como fugir desse poder bugado... 😄
 <hr>
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; align: center">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <a href="https://github.com/martinsph">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martinsph&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
