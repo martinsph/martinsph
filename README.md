@@ -9,13 +9,8 @@
 <hr>
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <a href="https://github.com/martinsph">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martinsph&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsph&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div>
-  <img height="60" width="120" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img height="60" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
@@ -29,4 +24,8 @@
   <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div> 
+</div>
+<div>
+  <a href="www.linkedin.com/in/pedrohmmartins2021"><img height="50" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img height="50" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
