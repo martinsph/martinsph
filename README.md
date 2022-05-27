@@ -1,4 +1,4 @@
-### Oi, sou o Pedro Martins!👋
+### Oi, sou o Pedro Martins!
 
 - 👨‍💻 Estou procurando oportunidades como dev jr
 - 📖 Aluno da Trybe atualmente no módulo de Ciência da Computação.
