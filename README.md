@@ -1,7 +1,7 @@
 ### Oi, sou o Pedro Martins!
 
 - 👨‍💻 Estou procurando oportunidades como dev jr
-- 📖 Aluno da Trybe atualmente no módulo de Ciência da Computação.
+- 📖 Formado na Trybe em 2022.
 - 😄 Pronouns: ele, dele
 <hr>
 <div style="display: flex; justify-content: center" align="center" width="100%">
